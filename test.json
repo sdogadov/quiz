@@ -1,0 +1,47 @@
+[{
+	"question": "IC chips used in computers are usually made of ",
+	"answer": ["Lead","Silicon","Chromium","Gold"],
+	"correctAnswer": "1"
+},
+{
+	"question": "One kilobyte is equal to",
+	"answer": ["1000 bytes","1024 bytes","100 bytes","1001 bytes"],
+	"correctAnswer": "1"
+},
+{
+	"question": "Which of the following is not an example of Operating System? ",
+	"answer": ["Param","Super 301","Compaq Presario","CRAY YMP"],
+	"correctAnswer": "0"
+},
+{
+	"question": "The errors that can be pointed out by the compiler are ",
+	"answer": ["Syntax Error","Symantic  Error","Logical Error","Internal Error"],
+	"correctAnswer": "0"	
+},
+{
+	"question": "Check the odd term out ",
+	"answer": ["Internet","Linux","Unix","Windows"],
+	"correctAnswer": "0"	
+},
+{
+	"question": "What is the best way to have a data and the slide number appear on every slide? ",
+	"answer": ["choose Tools, Header and Footer, click Slide tab, select the desired options, click Apply to All.",
+				"choose Insert, Header and Footer, click Slide tab, select the desired options, click Apply to All.",
+				"choose View, Header and Footer, click Slide tab, select the desired options, click Apply to All.",
+				"choose File, Header and Footer, click Slide tab, select the desired options, click Apply to All."],
+	"correctAnswer": "1"	
+},
+{
+	"question": "When we opens an Internet site we see www. What is the full form of www? ",
+	"answer": ["Internet","Linux","Unix","Windows"],
+	"correctAnswer": "0"	
+}]
+
+
+
+ 
+ 
+ 
+
+
+
